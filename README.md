@@ -33,11 +33,11 @@ if __name__ == "__main__":  # Проверяем, запущен ли скрип
     insertion_sort(numbers_to_sort)  # Вызываем функцию сортировки
     print(*numbers_to_sort)  # Выводим отсортированный массив через пробел
 
-Пример реализации: <img width="856" height="592" alt="image" src="https://github.com/user-attachments/assets/103d6902-80c7-4b6f-8adf-299f7cf0c5b7" />
+Пример реализации: <img width="856" height="592" alt="image" src="https://github.com/user-attachments/assets/f2dcefa1-550b-43a3-8891-e780a676a4cb" />
 
-Пример реализации с ошибкой: <img width="876" height="604" alt="image" src="https://github.com/user-attachments/assets/5f95d8c7-25a4-4500-94b4-653e01320b7f" />
+Пример реализации с ошибкой: <<img width="876" height="604" alt="image" src="https://github.com/user-attachments/assets/6adea63d-81b5-40a3-a62c-aa0c360c2ef8" />
 
-Блок-схема: <img width="1789" height="800" alt="image" src="https://github.com/user-attachments/assets/53857db4-846b-487f-b21c-66745fb28372" />
+Блок-схема: <img width="1789" height="800" alt="image" src="https://github.com/user-attachments/assets/3151ffbf-7b05-4e8f-b6ad-01f8cac19eb1" />
 
 
 # Описание. Задача 3.1. Линейный поиск числа
