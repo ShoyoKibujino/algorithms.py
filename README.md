@@ -37,7 +37,7 @@ if __name__ == "__main__":  # Проверяем, запущен ли скрип
 
 Пример реализации с ошибкой: <img width="876" height="604" alt="image" src="https://github.com/user-attachments/assets/5f95d8c7-25a4-4500-94b4-653e01320b7f" />
 
-Блок-схема: <img width="1373" height="619" alt="diagram (4)" src="https://github.com/user-attachments/assets/b3768b73-88c1-431d-aace-85c81839ef9d" />
+Блок-схема: <img width="1789" height="800" alt="image" src="https://github.com/user-attachments/assets/53857db4-846b-487f-b21c-66745fb28372" />
 
 
 # Описание. Задача 3.1. Линейный поиск числа
